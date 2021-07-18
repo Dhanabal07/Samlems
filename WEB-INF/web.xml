@@ -1,0 +1,53 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Saml</display-name>
+</web-app>
+
+
+
+https://zohocorpdhana.okta.com/app/zohocorpdhana_emssaml_1/exk5tpgnpIYXfQsw3695/slo/saml?SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&SAMLRequest=fVLRToMwFP0VwntHyyjQhhFNthiSuUVnjPqylFLHMmiRW%2BLi1wtsM84Hn5rce865557bBERdNXxpdqazj%2BqjU2CdY11p4GNn5nat5kbAHrgWtQJuJd%2Fc3i%2B5P8G8aY010lTuL8r%2FDAGgWrs32nWy%2BcxdrxbL9V222krfV2EwDVEckgIFOFAoL6YUxUyKgCgSUZy7zrNqoefO3F6qFwDoVKbBCm37EvYJwhHC4RMJOaGc0jfXmff77LWwI6u0tgHueV%2Bm7F23TVEKLSbmYMVEmtoTTXPd2qoahpW2xFPHA7XNTjfZ68v7A3xOQ0Y9qIw39F0nTYaXj47adJjTj6mMFFVpwPIYx3hELmrAJPF%2Bg0%2FMVZ9UNk%2FHsbmoJtDeXKwM3s6UM8pJTlfbKBjiyHShjulPlDGNlM9YjoikIQpYxBCLggAFksQyD4lPMTvp%2FVG4FK8%2BQ%2FoN&RelayState=http%3A%2F%2Flocalhost%3A8080%2FsamlEms01%2Fdologout.jsp&Signature=jO3VrQ9QhnmdBVreuvLbaSzZfcT2BoTj2445uDUSVRmSxcuj9uG56Jr%2Bp1CLxVEHMAVoTwyKMbI4F8UUA5Y2bcR9ytKr2aL4uE9slTa3E4UrVF6C1ntCB49qnSaOWeXlt8zqOdtOr23x9Y6TfVuT8JjbA6waeSgZGZuNPayefIJC4jpApYWSD3%2FXsk35uj4cQBmkoxDyROAeBZRMlNErUUu7KGneohW2iMHOiw2i6Ow0ckgXSbnGGzxUPJcTcbLoG7Z9bWUKUOiwEJdxrOFwavYlJj0ln5JHMHCTnbVVhBozDt2cjuKvS%2FfVNYNbyLNFGptEa7Kq61jGuVX%2Fs37n6fU%3D 
+
+
+
+
+
+
+SigAlg: http://www.w3.org/2001/04/xmldsig-more#rsa-sha256
+
+SAMLRequest: fZFbTwIxEIX/yqbvZbuwsKWBjSYYQ0SIlxj1hQxLuXbb0ikK/nq7Cybog0/N6cx35nTaQyiVFSOzNHv/KHd7iT46lEqjqCt9sndaGMA1Cg2lROEL8XR9PxLNBhPWGW8Ko8gF8j8BiNL5tdEkGg76ZDK+GU1uh+Npa561slY3ozxtd2haQEq7vLWgKSTJPOELYN05iV6kw8D2SbAKBoh7OdToQftwxZoJZRllneeEi2ZbMPZOokF4z1qDr6mV9xZFHH+ZVUjt7HwFGhpm66FRmDIGa3+XprK0yhylLINYylJqj0f0spwmsTxsU+5mfHf3wNirfvvsdNsxKhNXOyBR3qtOUUd0eTU4zFWmALUy6AVnnMUb+ABatVFvzHbt6QZtkFbJXnxJn6zGYZfDQV4Hm4FqoLv6CVulPyPnrpP686/5Nw==
+
+RelayState: http://localhost:8080/java-saml-tookit-jspsample/dologout.jsp
+
+Signature: f9v4VeSg4cyhww7cc7uDAIGJPmhFKWT+wGmT9Cw/87RQQA5kM6w7cCRJHh5l9AlVP+7rJqLLUy6u+sbCcxWv4ExZndQWkh+RsoYnqUOlgMsA5JAIc5OHbg15JldI0Ie7X/SnbB9qsFzfUz67vyl2LRVDo+URcbKKMeGqe4POg5VjbOHHM9l+M1TEqjKkutiv5EF4Nc++e9yiRzCQBZTtQkZ2/pF5Ly79mKoHGpUAFZS4mzaNmFWYbKo0eMasvmvKOsCi/bNzlvQ0nJitGGedhaTPbkMVFAZBeTO16WcShbbtLx90/5llcY/bYQM0M6xZqs1ePLZKBbJAsaxUtbp8pr8=
+
+
+
+
+
+
+HoF+64jAf1mYjHF2G1DyFMZs25KbakVOmY8jh7h/ze+QXXutYN77Vhayago/1Sd0/J/SrdQ/6xjfNTDaKcbm7uJv9GJs+YZzqWGni3VqnQfkSCcMjx+H2zLhdjX21mBfhNSA4hXwEHBT8SpOHEe4ofuPBFCE7kysRPv2hgZFkFD8D5vPpo7N5suRVd/QsnojX8ktfohkWnFzcxKWs1yZD8NCnXpqsk2nmP/A9bXSiSTiM4tcDRgzhVfzrkw6SrLfq8RysSw02lkjnzmG+6CtjZ+a9DLJHUdePvqtkYOSRonT8cuWRow/+P0eqxJqyBSvyHYbsdKMBMoklq3pEOlX4Xo=
+signature in mainClass : 
+
+
+https://zohocorpdhana.okta.com/app/zohocorpdhana_employeemanagementsystem_1/exk48rb8qKQ00XnYw695/slo/saml?SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&SAMLRequest=fZFdT8IwFIb%2FyrL7bmV8lQaIJhhDRIgfMeoNOWxHNujaslNU%2FPV2AxP0wqvm7TnPe96eDglKZeXMrM3e3eNuj%2BSCz1Jpkk1lFO4rLQ1QQVJDiSRdKh8ub2cyibi0lXEmNSo8Q%2F4ngAgrVxgdBtPJKFzMr2aL6%2Bl8%2BdbuJ6IvUgYpR9bBDJlIAFiSZWLQaqdCtNMweMKKPDsKvZU3INrjVJMD7fwVT1qM9xnvPbaETLqS89cwmPj3FBpcQ%2BXOWZJx%2FGVyn7qyWQ4aIrN1EKWmjMHa36UlllaZA2LpxRpL1I4O5LBctmL83HZEtRK7mzvOn%2FXLR2%2FQjUmZuN5BGIyH9SmbiNW4HuznKpOCyg05Kbjg8QbegdVtzBmzLRzbkPXSKhzG53Rw9Jr7ZU4n4ybZClRE1cVP2jr%2BiTl1BUf552fH3w%3D%3D&RelayState=http%3A%2F%2Flocalhost%3A8080%2Fjava-saml-tookit-jspsample%2Fdologout.jsp&Signature=HoF%2B64jAf1mYjHF2G1DyFMZs25KbakVOmY8jh7h%2Fze%2BQXXutYN77Vhayago%2F1Sd0%2FJ%2FSrdQ%2F6xjfNTDaKcbm7uJv9GJs%2BYZzqWGni3VqnQfkSCcMjx%2BH2zLhdjX21mBfhNSA4hXwEHBT8SpOHEe4ofuPBFCE7kysRPv2hgZFkFD8D5vPpo7N5suRVd%2FQsnojX8ktfohkWnFzcxKWs1yZD8NCnXpqsk2nmP%2FA9bXSiSTiM4tcDRgzhVfzrkw6SrLfq8RysSw02lkjnzmG%2B6CtjZ%2Ba9DLJHUdePvqtkYOSRonT8cuWRow%2F%2BP0eqxJqyBSvyHYbsdKMBMoklq3pEOlX4Xo%3D
+
+
+
+
+
+
+
+
+<samlp:LogoutRequest xmlns:samlp="urn:oasis:names:tc:SAML:2.0:protocol" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion" ID="ONELOGIN_f372878c-ac0e-4ede-82aa-2dd8913c883c" Version="2.0" IssueInstant="2021-07-06T18:48:13Z" Destination="https://zohocorpdhana.okta.com/app/zohocorpdhana_employeemanagementsystem_1/exk48rb8qKQ00XnYw695/slo/saml" ><saml:Issuer>http://localhost:8080/java-saml-tookit-jspsample</saml:Issuer><saml:NameID>dhanabal.sr@zohocorp.com</saml:NameID></samlp:LogoutRequest>
+
+
+fZFdT8IwFIb/yrL7sm5DKA0smmDMIkL8iFFvyGEc+eraslMU/PV2AxP0wqvm7TnPe96e9glKZeXILMzOPeB2h+SCfak0yaYyCHeVlgZoRVJDiSRdIR+v7kYyaXFpK+NMYVR4hvxPABFWbmV0GOTDQTgZX48mN/l4+p52E9EVBYOCI2vjHJlIAFgyn4tenBZCpEUYPGNFnh2E3sobEO0w1+RAO3/Fk5jxLuOdp1jItpBx+hYGQ/+elQbXUEvnLMko+jJLn7qy8yVoaJmNg1Zhygis/V2aYmmVOSCWXiywRO3oQA7LaRzhftMW1Uxsb+85f9Gvn53eRUTKRPUOwiDr16dsIlZZPdjPVaYAtTTkpOCCR2v4AFa3MWfMZuXYmqyXVmE/OqePVmO/y3yYNcFmoFpUXf6ErdOfkFPXUf351+wb
+
+
+<samlp:LogoutRequest xmlns:samlp="urn:oasis:names:tc:SAML:2.0:protocol" xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion" ID="ONELOGIN_f372878c-ac0e-4ede-82aa-2dd8913c883c" Version="2.0" IssueInstant="2021-07-06T18:48:13Z" Destination="https://zohocorpdhana.okta.com/app/zohocorpdhana_employeemanagementsystem_1/exk48rb8qKQ00XnYw695/slo/saml" ><saml:Issuer>http://localhost:8080/java-saml-tookit-jspsample</saml:Issuer><saml:NameID>dhanabal.sr@zohocorp.com</saml:NameID></samlp:LogoutRequest>
+
+fZFdT8IwFIb/yrL7sm5DKA0smmDMIkL8iFFvyGEc+eraslMU/PV2AxP0wqvm7TnPe96e9glKZeXILMzOPeB2h+SCfak0yaYyCHeVlgZoRVJDiSRdIR+v7kYyaXFpK+NMYVR4hvxPABFWbmV0GOTDQTgZX48mN/l4+p52E9EVBYOCI2vjHJlIAFgyn4tenBZCpEUYPGNFnh2E3sobEO0w1+RAO3/Fk5jxLuOdp1jItpBx+hYGQ/+elQbXUEvnLMko+jJLn7qy8yVoaJmNg1Zhygis/V2aYmmVOSCWXiywRO3oQA7LaRzhftMW1Uxsb+85f9Gvn53eRUTKRPUOwiDr16dsIlZZPdjPVaYAtTTkpOCCR2v4AFa3MWfMZuXYmqyXVmE/OqePVmO/y3yYNcFmoFpUXf6ErdOfkFPXUf351+wb
+

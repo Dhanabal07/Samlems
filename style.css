@@ -1,0 +1,112 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: green;
+	font-family:  sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 6in;
+	margin: 0;
+}
+.split{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+.container {
+	background-color: #fff;
+	border-radius: 5px;
+	width: 50%;
+	
+}
+
+.header {
+	border-bottom: 2px solid #f0f0f0;
+	background-color: #f7f7f7;
+	padding: 20px 40px;
+	text-align: center;
+}
+em{
+	color: red;
+	padding: 10px;
+}
+.header h2 {
+	margin: 0;
+}
+
+.form {
+	padding: 20px 30px;	
+}
+
+.form-control {
+	margin-bottom: 5px;
+	padding-bottom: 10px;
+}
+.form-control-gender{
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+}
+
+.form-control label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.form-control input,textarea {
+	border: 2px solid #f0f0f0;
+	border-radius: 4px;
+	display: block;
+	font-family: inherit;
+	font-size: 14px;
+	padding: 5px;
+	width: 100%;
+}
+
+.form-control input:focus {
+	outline: 0;
+	border-color: #777;
+}
+.column{
+	border: 2px solid #f0f0f0;
+	border-radius: 4px;
+	display: block;
+	font-family: inherit;
+	font-size: 14px;
+	padding: 5px;
+	width: 100%;
+}
+
+.button {
+	background-color: green;
+	border: 2px solid green;
+	border-radius: 4px;
+	color: #fff;
+	display: block;
+	font-family: inherit;
+	font-size: 16px;
+	padding: 10px;
+	margin-top: 10px;
+	align-content: center;
+	width: 100%;
+}
+.urlButton {
+
+	background-color: green;
+	border: 2px solid green;
+	border-radius: 4px;
+	color: #fff;
+	display: block;
+	font-family: inherit;
+	font-size: 16px;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom:  10px;
+	align-content: center;
+	margin-left: 30px;
+	width: 89%;
+	text-align: center;
+}
+
+
